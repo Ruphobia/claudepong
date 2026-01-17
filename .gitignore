@@ -1,0 +1,11 @@
+# Compiled binary
+pong
+
+# Game state files
+game.txt
+game.log
+state.json
+prev_frame.txt
+
+# Accidental escape sequence directory
+\033[H/
